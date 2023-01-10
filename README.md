@@ -3,12 +3,12 @@ A POWERFUL Enum tool to make PostgreSQL developers life easier.
 
 ## Use Guide
 First of all, install the package on your projetct by nuget.
-Typing
 
+Typing on your CLI:
 ```cli
 dotnet add package PgsqlDataTypes --version 1.0.0
 ```
-Or access this [link](https://www.nuget.org/packages/PgsqlDataTypes).
+Or accessing [Nuget Packages website](https://www.nuget.org/packages/PgsqlDataTypes).
 
 
 Just need to import the Enum in your workspace:
