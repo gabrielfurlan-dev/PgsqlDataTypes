@@ -16,3 +16,32 @@ Example:
                     .HasColumnType(EPgsqlDataTypes.BigInt.ToString()) //PostgreSQL Data Type
                     .HasMaxLength(1);
 ```
+
+Enums also have descriptions in case you prefer uppercase text.
+
+## DataTypes
+```markdown
+## TEXT
+VARCHAR
+TEXT
+
+## NUMERIC
+INT
+SMALLINT
+BIGINT
+FLOAT
+BOOLEAN
+DECIMAL
+NUMERIC
+MONEY
+REAL
+SMALLSERIAL
+SERIAL
+BIGSERIAL
+
+## DATE
+TIME
+DATE
+TIMESTAMP
+TIMESTAMPTZ
+```
