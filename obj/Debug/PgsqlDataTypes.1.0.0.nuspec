@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PgsqlDataTypes</id>
+    <version>1.0.0</version>
+    <authors>Gabriel Furlan</authors>
+    <description>A "POWERFUL" tool to use PostgreSQL data types for .NET environments.</description>
+    <tags>DataTypes, PostgreSQL, SQL, Supabase</tags>
+    <repository url="https://github.com/gabrielfurlan-dev/PgsqlDataTypes" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\dev\PgsqlDataTypes\bin\Debug\net5.0\PgsqlDataTypes.dll" target="lib\net5.0\PgsqlDataTypes.dll" />
+  </files>
+</package>

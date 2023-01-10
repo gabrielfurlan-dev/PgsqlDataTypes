@@ -63,5 +63,7 @@ namespace PgsqlDataTypes
 
         [Description("TIMESTAMPTZ")]
         Timestamptz, //Storages also timeszone
+        [Description("CURRENT_DATE")]
+        Current_Date, //Storages also timeszone
     }
 }
