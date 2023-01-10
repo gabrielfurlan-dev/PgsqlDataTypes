@@ -3,7 +3,7 @@ using System.ComponentModel;
 namespace PgsqlDataTypes
 {
     public enum EPgsqlDataTypes
-    {
+    {   
         //TEXT
         //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=--=-=-=-=-=-=-=-=-=-=
         [Description("VARCHAR")]

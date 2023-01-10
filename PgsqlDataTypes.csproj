@@ -9,6 +9,7 @@
     </Description>
     <PackageLicensesExpression>MIT</PackageLicensesExpression>
     <PackageTags>DataTypes, PostgreSQL, SQL, Supabase</PackageTags>
+    <RepositoryUrl>https://github.com/gabrielfurlan-dev/PgsqlDataTypes</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

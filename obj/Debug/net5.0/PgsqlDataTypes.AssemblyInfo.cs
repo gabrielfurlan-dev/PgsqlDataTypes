@@ -19,6 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("PgsqlDataTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PgsqlDataTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/gabrielfurlan-dev/PgsqlDataTypes")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
