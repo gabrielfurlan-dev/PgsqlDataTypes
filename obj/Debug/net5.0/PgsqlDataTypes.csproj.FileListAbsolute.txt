@@ -1,0 +1,12 @@
+C:\dev\PgsqlDataTypes\bin\Debug\net5.0\PgsqlDataTypes.deps.json
+C:\dev\PgsqlDataTypes\bin\Debug\net5.0\PgsqlDataTypes.dll
+C:\dev\PgsqlDataTypes\bin\Debug\net5.0\PgsqlDataTypes.pdb
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.csproj.AssemblyReference.cache
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.AssemblyInfoInputs.cache
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.AssemblyInfo.cs
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.csproj.CoreCompileInputs.cache
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.dll
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\refint\PgsqlDataTypes.dll
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\PgsqlDataTypes.pdb
+C:\dev\PgsqlDataTypes\obj\Debug\net5.0\ref\PgsqlDataTypes.dll

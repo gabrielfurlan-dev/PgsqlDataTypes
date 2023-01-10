@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Gabriel Furlan</Authors>
+    <Company>Kappa</Company>
+    <Description>
+      A "POWERFUL" tool to use PostgreSQL data types for .NET environments. 
+    </Description>
+    <PackageLicensesExpression>MIT</PackageLicensesExpression>
+    <PackageTags>DataTypes, PostgreSQL, SQL, Supabase</PackageTags>
+  </PropertyGroup>
+
+</Project>
