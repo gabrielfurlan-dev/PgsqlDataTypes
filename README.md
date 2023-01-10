@@ -13,6 +13,6 @@ Example:
  builder.Property(x => x.HumorStatus)
                     .IsRequired()
                     .HasColumnName("ColumnName")
-                    .HasColumnType(EPgsqlDataTypes.BigInt.ToString())
+                    .HasColumnType(EPgsqlDataTypes.BigInt.ToString()) //PostgreSQL Data Type
                     .HasMaxLength(1);
 ```
